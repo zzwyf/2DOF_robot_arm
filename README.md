@@ -1,2 +1,2 @@
-# 2DOF_robot_arm
-2DOF_robot_arm control
+# 2DOF robot arm
+2DOF robot arm control
